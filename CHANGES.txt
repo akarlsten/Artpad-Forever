@@ -1,0 +1,12 @@
+tag a96e41611f0753e3a96b8bda01b235eb4b4839f1 v9.06b_release
+Author:	shughes <shughes.uk@gmail.com>
+Date:	Thu Sep 20 20:12:03 2018 -0700
+
+9.06b update for BFA
+
+commit 1f805bba141f84157b96246cb708a49d48b15461
+Author: shughes <shughes.uk@gmail.com>
+Date:   Thu Sep 20 20:10:16 2018 -0700
+
+    test
+
