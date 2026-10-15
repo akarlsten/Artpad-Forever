@@ -1,0 +1,6 @@
+# Windows copy leftovers and OS junk
+*:Zone.Identifier
+*Zone.Identifier
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,15 +1,11 @@
 <Bindings>
-	<Binding name="ARTPAD_SHOW" header="ARTPAD">
-		ArtPad.mainFrame:Show();
+	<Binding name="ARTPAD_SHOW" header="ARTPAD" category="ADDONS">
+		ArtPad:Show()
 	</Binding>
-	<Binding name="ARTPAD_HIDE">
-		ArtPad.mainFrame:Hide();
+	<Binding name="ARTPAD_HIDE" category="ADDONS">
+		ArtPad:Hide()
 	</Binding>
-	<Binding name="ARTPAD_TOGGLE">
-		if ArtPad.mainFrame:IsShown() then
-			ArtPad.mainFrame:Hide();
-		else
-			ArtPad.mainFrame:Show();
-		end;
+	<Binding name="ARTPAD_TOGGLE" category="ADDONS">
+		ArtPad:Toggle()
 	</Binding>
 </Bindings>
